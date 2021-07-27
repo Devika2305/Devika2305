@@ -1,18 +1,17 @@
-#            - 👋 Hi, I’m Ansh Gupta
+#            - 👋 Hi, I’m Devika Gupta
 ## A passionate Computer Science enthusiast from India
             
-- 💻 All of my work is available at https://github.com/anshgupta0511
+- 💻 All of my work is available at https://github.com/Devika2305
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 📫 Reach me at anshgupta0511@gmail.com
+- 📫 Reach me at devikagupta2021@gmail.com
 
-![](https://visitor-badge.laobi.icu/badge?page_id=anshgupta0511.anshgupta0511)
+![](https://visitor-badge.laobi.icu/badge?page_id=Devika2305.Devika2305)
 
 ## Connect with me:
 <p align="center">
-<a href="mailto:anshgupta0511@gmail.com"> <img src="https://pbs.twimg.com/media/ElXTrHcXEAACIZE.jpg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://www.linkedin.com/in/ansh-gupta-0511/" target="_blank"> <img src="https://logoeps.com/wp-content/uploads/2012/03/linkedin-icon-logo-vector.png" alt="Linked in" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://www.facebook.com/profile.php?id=100007389969442" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://www.instagram.com/_ansh.gupta/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Linked in" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:devikagupta2021@gmail.com"> <img src="https://pbs.twimg.com/media/ElXTrHcXEAACIZE.jpg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.linkedin.com/in/devika-gupta-452958198" target="_blank"> <img src="https://logoeps.com/wp-content/uploads/2012/03/linkedin-icon-logo-vector.png" alt="Linked in" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.instagram.com/devika.gupta/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Linked in" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## Languages and Tools:
@@ -32,13 +31,13 @@
 </p>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshgupta0511&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devika2305&theme=tokyonight)
 
 
-<img src='https://github-readme-stats.vercel.app/api?username=anshgupta0511&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
+<img src='https://github-readme-stats.vercel.app/api?username=Devika2305&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
 
 
 <!---
-anshgupta0511/anshgupta0511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Devika2305/Devika2305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
