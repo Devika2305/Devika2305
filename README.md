@@ -36,6 +36,8 @@
 
 <img src='https://github-readme-stats.vercel.app/api?username=Devika2305&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
 
+<img src= 'https://camo.githubusercontent.com/c1cb3eba0ee27abfc3743c6223a731018a0130f86266da13521c25455d53106f/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d74656a61732d74726976656469267468656d653d616c676f6c6961'>
+
 
 <!---
 Devika2305/Devika2305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
